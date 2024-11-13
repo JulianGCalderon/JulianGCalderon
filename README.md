@@ -7,6 +7,6 @@
 ~^~^~^~~^~~~^~~^^~^^^^^^^^^^^^
 ```
 
-Soy un estudiante de ingeniería informática de la facultad de ingeniería de la universidad de buenos aires (FIUBA). Proximamente comenzaré el último año de la carrera.
+Desarrollador en LambdaClass, y estudiante de Ingeniería Informática en la universidad de Buenos Aires.
 
 Mis repositorios de la facultad están guardados en la organización: [JulianGCalderon-FIUBA](https://github.com/JulianGCalderon-FIUBA)
